@@ -1,0 +1,11 @@
+test_equilateral_triangle (TestTriangle.TestTriangles) ... ok
+test_invalid_input (TestTriangle.TestTriangles) ... ok
+test_isosceles_triangle (TestTriangle.TestTriangles) ... ok
+test_not_a_triangle (TestTriangle.TestTriangles) ... ok
+test_right_triangle (TestTriangle.TestTriangles) ... ok
+test_scalene_triangle (TestTriangle.TestTriangles) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.002s
+
+OK
