@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Updated March 15, 2023
 The primary goal of this file is to test the classifyTriangle() function in Triangle.py
 
 """
